@@ -1,0 +1,6 @@
+C:\Users\ericsergio\source\repos\AnvilTotalPriceCalcDyn\obj\Debug\AnvilTotalPriceCalcDyn.csproj.AssemblyReference.cache
+C:\Users\ericsergio\source\repos\AnvilTotalPriceCalcDyn\obj\Debug\AnvilTotalPriceCalcDyn.csproj.CoreCompileInputs.cache
+C:\Users\ericsergio\source\repos\AnvilTotalPriceCalcDyn\bin\Debug\AnvilTotalPriceCalcDyn.dll
+C:\Users\ericsergio\source\repos\AnvilTotalPriceCalcDyn\bin\Debug\AnvilTotalPriceCalcDyn.pdb
+C:\Users\ericsergio\source\repos\AnvilTotalPriceCalcDyn\obj\Debug\AnvilTotalPriceCalcDyn.dll
+C:\Users\ericsergio\source\repos\AnvilTotalPriceCalcDyn\obj\Debug\AnvilTotalPriceCalcDyn.pdb
